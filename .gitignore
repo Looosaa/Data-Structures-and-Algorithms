@@ -1,0 +1,30 @@
+# C/C++ 编译产生的文件
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+
+# 调试文件
+*.dSYM/
+*.pdb
+
+# VS Code
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+
+# 自己的编译输出目录
+build/
+bin/
+
+# 当前已经生成的可执行文件
+memo_Fibonacci
